@@ -13,3 +13,7 @@ The SQL50 challenge is a curated list of 50 SQL problems on LeetCode designed to
 - Aggregations
 - Window Functions
 - Advanced queries
+## Link
+https://leetcode.com/studyplan/top-sql-50/
+- مهى
+مه
